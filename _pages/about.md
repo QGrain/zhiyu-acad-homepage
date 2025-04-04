@@ -21,10 +21,10 @@ redirect_from:
 
 <!-- {% include_relative sections/news.md %} -->
 
-{% include_relative includes/pubs.md %}
+{% include_relative sections/pubs.md %}
 
-{% include_relative includes/awards.md %}
+{% include_relative sections/awards.md %}
 
-{% include_relative includes/edu.md %}
+{% include_relative sections/edu.md %}
 
-{% include_relative includes/services.md %}
+{% include_relative sections/services.md %}
