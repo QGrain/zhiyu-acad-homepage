@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- {% include_relative sections/news.md %} -->
 
-{% include_relative includes/pub.md %}
+{% include_relative includes/pubs.md %}
 
 {% include_relative includes/awards.md %}
 
