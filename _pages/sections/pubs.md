@@ -12,4 +12,15 @@
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG](), **Zhiyu Zhang**, Longxing Li, Ruigang Liang, Kai Chen, 34th ACM SIGSOFT International Symposium on Software Testing and Analysis, **ISSTA 2025 (To appear)**
+- [MalFocus: Locating Malicious Modules in Malware based on Hybrid Deep Learning](), Weihao Huang, Chaoyang Lin, Lu Xiang, **Zhiyu Zhang**, Guozhu Meng, Kai Chen, ..., **TDSC 2025 (To appear)**
+- [DARKFLEECE: Probing the Dark Side of Android Subscription Apps](https://www.usenix.org/conference/usenixsecurity24/presentation/yue), Chang Yue, Chen Zhong, Kai Chen, **Zhiyu Zhang**, Yeonjoon Lee, 33rd USENIX Security Symposium, **USENIX Security 2024**
+- [CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei), Dawei Wang, Ying Li, **Zhiyu Zhang**, Kai Chen, 32nd USENIX Security Symposium, **USENIX Security 2023**
+- [Developing an Interactive Web-Based Programming Platform for Learning Computer Networking Protocols](https://link.springer.com/chapter/10.1007/978-3-030-72792-5_48), Dewei Zeng*, **Zhiyu Zhang***, Jiye Chen, Xiaojun Hei, International Conference on Simulation Tools and Techniques, **SIMUTools 2020**
+- [CyFRS: A Fast Recoverable System for Cyber Range based on Real Network Environment](https://ieeexplore.ieee.org/document/9123273), **Zhiyu Zhang**, Guohang Lu, Chengwei Zhang, Yayu Gao, Yajun Wu, Guohui Zhong, Information Communication Technologies Conference, **ICTC 2020**
+- `ISSTA 2025` [Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG](), **Zhiyu Zhang**, Longxing Li, Ruigang Liang, Kai Chen (To appear)
+- `TDSC 2025` [MalFocus: Locating Malicious Modules in Malware based on Hybrid Deep Learning](), Weihao Huang, Chaoyang Lin, Lu Xiang, **Zhiyu Zhang**, Guozhu Meng, Kai Chen, ... (To appear)
+- `USENIX Security 2024` [DARKFLEECE: Probing the Dark Side of Android Subscription Apps](https://www.usenix.org/conference/usenixsecurity24/presentation/yue), Chang Yue, Chen Zhong, Kai Chen, **Zhiyu Zhang**, Yeonjoon Lee
+- `USENIX Security 2023` [CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei), Dawei Wang, Ying Li, **Zhiyu Zhang**, Kai Chen
+- `SIMUTools 2020` [Developing an Interactive Web-Based Programming Platform for Learning Computer Networking Protocols](https://link.springer.com/chapter/10.1007/978-3-030-72792-5_48), Dewei Zeng*, **Zhiyu Zhang***, Jiye Chen, Xiaojun Hei
+- `ICTC 2020` [CyFRS: A Fast Recoverable System for Cyber Range based on Real Network Environment](https://ieeexplore.ieee.org/document/9123273), **Zhiyu Zhang**, Guohang Lu, Chengwei Zhang, Yayu Gao, Yajun Wu, Guohui Zhong
