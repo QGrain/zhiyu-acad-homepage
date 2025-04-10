@@ -16,7 +16,7 @@
     - **Zhiyu Zhang**, Longxing Li, Ruigang Liang, Kai Chen
 
 - **[TDSC 2025]**: [MalFocus: Locating Malicious Modules in Malware based on Hybrid Deep Learning](), IEEE Transactions on Dependable and Secure Computing [[Paper]]()
-    - Weihao Huang, Chaoyang Lin, Lu Xiang, **Zhiyu Zhang**, Guozhu Meng, Kai Chen, et al. (To appear)
+    - Weihao Huang, Chaoyang Lin, Lu Xiang, **Zhiyu Zhang**, Guozhu Meng, Lei Xue, Kai Chen, Lei Meng, Zongming Zhang (To appear)
 
 - **[USENIX Security 2024]**: [DARKFLEECE: Probing the Dark Side of Android Subscription Apps](https://www.usenix.org/conference/usenixsecurity24/presentation/yue), Proceedings of the 33nd USENIX Security Symposium. Philadelphia, USA, August 2024 [[Paper]](https://www.usenix.org/system/files/usenixsecurity24-yue.pdf) [[Code]](https://github.com/QGrain/)
     - Chang Yue, Chen Zhong, Kai Chen, **Zhiyu Zhang**, Yeonjoon Lee
