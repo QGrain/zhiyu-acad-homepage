@@ -17,3 +17,9 @@ main:
 
   - title: "Services"
     url: "/#-services"
+
+  - title: "Tools"
+    url: "/#-tools"
+
+  - title: "Blog"
+    url: "https://qgrain.github.io/"
