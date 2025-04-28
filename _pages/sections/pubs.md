@@ -12,7 +12,7 @@
 </div>
 </div> -->
 
-- **[ISSTA 2025]**: [Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG](), Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis. Trondheim, Norway, June 2025 [[Paper]]() [[Code]]()
+- **[ISSTA 2025]**: [Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG](), Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis. Trondheim, Norway, June 2025 [[Paper]](../../files/ISSTA25_SyzGPT_Zhiyu_Camera_Ready.pdf) [[Code]](https://github.com/QGrain/SyzGPT)
     - **Zhiyu Zhang**, Longxing Li, Ruigang Liang, Kai Chen
 
 - **[TDSC 2025]**: [MalFocus: Locating Malicious Modules in Malware based on Hybrid Deep Learning](), IEEE Transactions on Dependable and Secure Computing [[Paper]](https://www.computer.org/csdl/journal/tq/5555/01/10964846/25UAdGAvthC)
