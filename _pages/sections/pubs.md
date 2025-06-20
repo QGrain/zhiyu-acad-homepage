@@ -12,7 +12,7 @@
 </div>
 </div> -->
 
-* **[ISSTA 2025]: Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG** [[Paper]](../../files/ISSTA25_SyzGPT_Zhiyu_Camera_Ready.pdf) [[Code]](https://github.com/QGrain/SyzGPT) [![SyzGPT](https://img.shields.io/github/stars/QGrain/SyzGPT?style=social)](https://github.com/QGrain/SyzGPT)
+* **[ISSTA 2025]: Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG** [[Paper]](../../files/issta25main_syzgpt.pdf) [[Code]](https://github.com/QGrain/SyzGPT) [![SyzGPT](https://img.shields.io/github/stars/QGrain/SyzGPT?style=social)](https://github.com/QGrain/SyzGPT)
 
   In *Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, Trondheim, Norway, June 2025
 
