@@ -9,6 +9,7 @@
     - USENIX Security: 2022, 2024
     - ISSTA: 2024
     - S&P: 2022
+    - Inscrypt: 2025
 
 # 💻 Teaching
 
