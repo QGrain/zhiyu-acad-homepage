@@ -33,14 +33,24 @@ div.highlighter-rouge, figure.highlight {
   }
 }
 
+// .highlighter-rouge{
+//   background-color: #03228d;
+//   color: white;
+//   margin-bottom: 0em;
+//   padding: 0em;
+//   font-size: $type-size-7;
+//   border: 0px solid $border-color;
+//   border-radius: 0;
+// }
 .highlighter-rouge{
   background-color: #03228d;
   color: white;
   margin-bottom: 0em;
-  padding: 0em;
-  font-size: $type-size-8;
+  padding: 0.1em 0.1em; /* 上下0.1em, 左右0.1em，可按需调整 */
+  font-size: 0.8em; /* 或用0.75em */
+  vertical-align: middle; /* 或者尝试 baseline, text-bottom 等值 */
   border: 0px solid $border-color;
-  border-radius: 0;
+  border-radius: 2px; /* 建议加回一点圆角，视觉效果更柔和 */
 }
 
 .highlight table td { padding: 5px; }
