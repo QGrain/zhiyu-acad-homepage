@@ -2,7 +2,7 @@
 
 *Feel free to contact me 📧 for anything (e.g., details, code, slides) about the following selected papers.*
 
-- `ISSTA'25` **Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-Based RAG** [[Paper]](../../files/issta25main_syzgpt.pdf) [[Code]](https://github.com/QGrain/SyzGPT) [![SyzGPT](https://img.shields.io/github/stars/QGrain/SyzGPT?style=social)](https://github.com/QGrain/SyzGPT)     
+- `ISSTA'25` **Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-Based RAG** [[Paper]](../../files/issta25main_syzgpt.pdf) [[Demo]](../../syzgpt-demo/) [[Code]](https://github.com/QGrain/SyzGPT) [![SyzGPT](https://img.shields.io/github/stars/QGrain/SyzGPT?style=social)](https://github.com/QGrain/SyzGPT)     
     *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2025* (<span style="color:#B00C00">CCF-A</span>)    
     <u>Zhiyu Zhang</u>, Longxing Li, Ruigang Liang, Kai Chen
 
