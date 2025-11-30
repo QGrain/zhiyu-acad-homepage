@@ -1,4 +1,5 @@
 # 🎖 Awards
+- *2025* Second Prize in the Software Research Prototype System Competition
 - *2025* Outstanding Undergraduate Course Teaching Assistant of UCAS
 - *2025* First-Class Academic Scholarship of UCAS
 - *2024* Outstanding Student of UCAS
