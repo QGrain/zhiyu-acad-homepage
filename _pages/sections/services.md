@@ -4,11 +4,14 @@
     - USENIX Security: 2023, 2024, 2026
     - SOSP: 2023
 
+- Reviewer:
+    - JNCA: 2026
+
 - Sub-Reviewer:
     - CCS: 2025
     - USENIX Security: 2022, 2024
     - ISSTA: 2024
-    - Inscrypt: 2025
+    - Inscrypt: 2025, 2026
 
 # 💻 Teaching
 
