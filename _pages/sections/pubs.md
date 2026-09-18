@@ -2,6 +2,10 @@
 
 *Feel free to contact me 📧 for anything (e.g., details, code, slides) about the following selected papers.*
 
+- `NDSS'27` **Steering Directed Kernel Fuzzing Beyond Reachability Prediction with Attribution Guidance** (To Appear)  
+    *The Network and Distributed System Security (NDSS) Symposium, 2027* (<span style="color:#B00C00">CCF-A</span>)  
+    <u>Zhiyu Zhang</u>, Longxing Li, Ruigang Liang, Kai Chen, Junyan Jiang, Chen Liang, Changwei Xu
+
 - `USENIX Security'26` **Firmenstein: Scaling Dynamic Analysis for Linux-Based Firmware Services via API-Centric Intervention Code Synthesis** [[Code]](https://zenodo.org/records/20355630)  
     *The 35th USENIX Security Symposium, 2026* (<span style="color:#B00C00">CCF-A</span>)  
     Yanzhong Wang, Wenhui Zhang, Ruigang Liang, Kai Chen, Yi Yang, <u>Zhiyu Zhang</u>, Junyan Jiang
