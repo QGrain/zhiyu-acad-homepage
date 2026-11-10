@@ -6,6 +6,8 @@
 
 - Reviewer:
     - JNCA: 2026
+    - WWW: 2027
+    - AAAI (Tutorial & Lab Technical QA): 2027
 
 - Sub-Reviewer:
     - CCS: 2025
