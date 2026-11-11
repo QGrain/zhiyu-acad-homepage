@@ -1,6 +1,6 @@
 # 🎖 Awards
 
-- *2026* First Prize in the Rust Software Prototype System Competition
+- *2026* First Prize in the Rust Software Prototype Development Competition
 - *2026* National Scholarship
 - *2025* Second Prize in the Software Research Prototype System Competition
 - *2025* Outstanding Undergraduate Course Teaching Assistant of UCAS
